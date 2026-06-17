@@ -1,5 +1,7 @@
 # kol-tweet-alert-bot
 
+[![License: MIT](https://img.shields.io/github/license/SisoSol/kol-tweet-alert-bot?style=flat-square&color=blue)](LICENSE) [![Last commit](https://img.shields.io/github/last-commit/SisoSol/kol-tweet-alert-bot?style=flat-square)](https://github.com/SisoSol/kol-tweet-alert-bot/commits) [![CI](https://github.com/SisoSol/kol-tweet-alert-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/SisoSol/kol-tweet-alert-bot/actions/workflows/ci.yml) [![Built for 1322.io](https://img.shields.io/badge/built%20for-1322.io-3b82f6?style=flat-square)](https://1322.io) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/SisoSol/kol-tweet-alert-bot/pulls)
+
 A real-time **crypto KOL tweet alert bot** in ~50 lines of Python. Watches the
 X (Twitter) accounts you track over a **WebSocket**, detects contract addresses
 and tickers the instant a tweet lands, and fires a **Telegram alert in under a
